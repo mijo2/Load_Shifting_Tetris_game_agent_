@@ -29,10 +29,10 @@ The observation or rather the state of the environment looks something like belo
 The agent network is a 3-layer fully connected neural network with only one hidden layer.
 ![alt text](https://github.com/mijo2/Tetris_game_agent/blob/master/RL_Cartpole-v0/Images/nn.jpg)
 
-The number of neurons in:
-    1. Input Layer: 4
-    2. Hidden Layer: 128
-    3. Output Layer: 2
+The number of neurons in:  
+    1. Input Layer: 4  
+    2. Hidden Layer: 128  
+    3. Output Layer: 2  
 
 
 
