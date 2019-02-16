@@ -1,4 +1,4 @@
-# Tetris_game_agent
+# Load Shifting using Tetris game agent
 
 ## Introduction
 This Repository contains a set of directories that contain files to train agents to play certain games.
